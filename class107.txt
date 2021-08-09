@@ -1,0 +1,8 @@
+recap
+
+visualizing data by bar ,line,scatter plot
+central tendency mean,mode,median
+standard deviation 
+(how much data differs from central tendency )
+co relation (how one dataset deppend on other dataset)
+data visualizion and ana
